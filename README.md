@@ -1,60 +1,60 @@
-<h1 align="center">Hi 👋, I'm Yousef Ahmad</h1>
-<h3 align="center">A passionate developer & problem solver from Egypt</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00C8F0&center=true&vCenter=true&width=800&lines=Hi+I'm+Yousef+Ahmad+👋;Software+Developer+%7C+Problem+Solver;Front-End+Learner+%7C+Python+Developer;Competitive+Programming+%7C+Embedded+Systems" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔧 I build **Python real-life apps** (QR generator, TinyURL, weather app with real API).  
-- 💻 I use **Java & C++** for OOP projects, problem-solving, and data structures.  
-- 🌐 Currently learning **Front-End Development (HTML, CSS, JavaScript)**.  
-- 🎯 My goal now: **Finish the front-end track and move to a framework** (React or Angular).  
-- ⚙️ Passionate about **Competitive Programming** & **Embedded Systems**.  
-- 👨‍👦‍👦 Former **Scout Leader** for 2 years — teamwork, leadership & responsibility.
+## 👨‍💻 About Me
+
+- 🔧 I build **Python real-life apps**: QR Generator, TinyURL, Weather App (API-based)  
+- 💻 I code in **Java & C++** for OOP projects, data structures & problem-solving  
+- 🌐 Currently learning **HTML, CSS, JavaScript** to become a Front-End Developer  
+- 🎯 Goal: **Master a Front-End framework** (React / Angular)  
+- ⚙️ Passionate about **Competitive Programming & Embedded Systems**  
+- 🏕️ Former **Scout Leader for 2 years** — teamwork, leadership, responsibility  
 
 ---
 
-## 📌 My Portfolio
+## 🌐 Portfolio
 🔗 **Live Portfolio:**  
-https://yousof158.github.io/yousof-portfolio-website/
+👉 https://yousof158.github.io/yousof-portfolio-website/
 
-More projects are local and will be uploaded soon!
+More projects will be uploaded soon!
 
 ---
 
 ## 🛠️ Languages & Tools
 
-**Programming & Tech:**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,vscode&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,vscode,linux&perline=7" />
 </p>
 
-**Learning Now:**
-- HTML, CSS, JavaScript  
-- Advanced OOP
+---
+
+## 🚀 Projects
+
+### 🔵 **Python Projects**
+- QR Code Generator  
+- Tiny URL shortener  
+- Weather App (with real API)  
+
+### 🔴 **Embedded Systems Projects**
+- 7-Segment Counter (Up/Down) — combinational + sequential logic  
+- Transistor-Based Audio Amplifier  
+
+### 🟢 **OOP / DSA Projects**
+- Student Management System (search by ID, name, age)  
+- Sorting & searching tasks  
+- Full OOP Projects (inheritance, polymorphism, encapsulation)  
 
 ---
 
-## 🧩 Projects I've Built
+## 📊 GitHub Stats (Animated)
 
-### 🔹 Python Projects
-- **QR Code Generator**  
-- **Tiny URL generator**  
-- **Weather App with API**
-
-### 🔹 Embedded Systems Projects
-- **7-segment counter (up/down)** using combinational & sequential logic  
-- **Speaker Amplifier** using basic transistor concepts  
-
-### 🔹 OOP / Data Structures Projects (Java & C++)
-- Student management system (search by name, ID, age)  
-- Sorting and struct-based tasks  
-- OOP concept projects (inheritance, polymorphism, etc.)
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousof158&show_icons=true&theme=tokyonight" alt="Yousef's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousof158&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousof158&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
@@ -65,10 +65,10 @@ More projects are local and will be uploaded soon!
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/yousof-ahmad-5187011b9  
-- 💬 **WhatsApp:** https://wa.me/+201555935967  
-- 📧 **Email:** *(add your email if you want)*  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/yousof-ahmad-5187011b9  
+- 💬 **WhatsApp**: https://wa.me/+201555935967  
+- 📧 **Gmail**: **yousofahamad158@gmail.com**  
 
----
-
-⭐ **Thanks for visiting my profile! Always happy to learn, build, and collaborate.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=62F717&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+✨;Always+learning...+Always+building...+🚀;" />
+</p>
