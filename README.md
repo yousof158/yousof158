@@ -12,7 +12,7 @@
 - 🌐 Currently learning **HTML, CSS, JavaScript** to become a Front-End Developer  
 - 🎯 Goal: **Master a Front-End framework** (React / Angular)  
 - ⚙️ Passionate about **Competitive Programming & Embedded Systems**  
-- 🏕️ Former **Scout Leader for 2 years** — teamwork, leadership, responsibility  
+- 🏕️ Former **Scout Leader for 3 years** — teamwork, leadership, responsibility  
 
 ---
 
